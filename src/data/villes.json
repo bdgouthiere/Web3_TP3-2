@@ -1,0 +1,32 @@
+[
+    {
+        "ville": "Québec",
+        "latitude": 46.81228,
+        "longitude": -71.21454,
+        "decalageHoraire": -4
+    },
+    {
+        "ville": "Bruxelles",
+        "latitude": 50.85045,
+        "longitude": 4.351710,
+        "decalageHoraire": 2
+    },
+    {
+        "ville": "Bogota",
+        "latitude": 4.60971,
+        "longitude": -74.08175,
+        "decalageHoraire": -5
+    },
+    {
+        "ville": "Charleroi",
+        "latitude": 50.41136,
+        "longitude": 4.444643,
+        "decalageHoraire": 2
+    },
+    {
+        "ville": "Buenos Aires",
+        "latitude": -34.61315,
+        "longitude": -58.37723,
+        "decalageHoraire": -3
+    }
+]
